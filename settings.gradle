@@ -1,0 +1,12 @@
+rootProject.name = 'leetcode'
+include 'RunningSumof1dArray-1480'
+include 'FindPivotIndex-724'
+include 'IsomorphicStrings-205'
+include 'IsSubsequence-392'
+include 'MergeTwoSortedLists-21'
+include 'ReverseLinkedList-206'
+include 'MiddleOfTheLinkedList-876'
+include 'UniqueNumberOfOccurrences-1207'
+include 'RomanToInteger-13'
+include 'BestTimetoBuyandSellStock-121'
+
